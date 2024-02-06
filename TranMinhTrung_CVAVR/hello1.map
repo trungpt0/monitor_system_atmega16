@@ -1,0 +1,22 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+ADC_OUT                                                           0x01A6       4
+voltage                                                           0x01AA       4
+temperature                                                       0x01AE       4
+buffer                                                            0x01B2       5
+i                                                                 0x01B7       2
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+cnt_int                                                           R4,R5        2
+value_reg1                                                        R6,R7        2
+value_reg2                                                        R8,R9        2
+tram                                                              R11          1
+chuc                                                              R10          1
+donvi                                                             R13          1

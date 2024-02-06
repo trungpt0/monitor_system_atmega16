@@ -1,0 +1,10 @@
+D:\Atmega_C#\ViXuLy\ViXuLy\bin\Debug\ViXuLy.exe.config
+D:\Atmega_C#\ViXuLy\ViXuLy\bin\Debug\ViXuLy.exe
+D:\Atmega_C#\ViXuLy\ViXuLy\bin\Debug\ViXuLy.pdb
+D:\Atmega_C#\ViXuLy\ViXuLy\obj\Debug\ViXuLy.csproj.AssemblyReference.cache
+D:\Atmega_C#\ViXuLy\ViXuLy\obj\Debug\ViXuLy.Form1.resources
+D:\Atmega_C#\ViXuLy\ViXuLy\obj\Debug\ViXuLy.Properties.Resources.resources
+D:\Atmega_C#\ViXuLy\ViXuLy\obj\Debug\ViXuLy.csproj.GenerateResource.cache
+D:\Atmega_C#\ViXuLy\ViXuLy\obj\Debug\ViXuLy.csproj.CoreCompileInputs.cache
+D:\Atmega_C#\ViXuLy\ViXuLy\obj\Debug\ViXuLy.exe
+D:\Atmega_C#\ViXuLy\ViXuLy\obj\Debug\ViXuLy.pdb
